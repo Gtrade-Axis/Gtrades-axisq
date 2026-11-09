@@ -4,7 +4,7 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/11.9.1/firebase
 import { getFunctions } from "https://www.gstatic.com/firebasejs/11.9.1/firebase-functions.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBZmsLm64PyEL9jifi32bpgvWfhluIWCZM",
+  apiKey: "1",
   authDomain: "gtrades-axis.firebaseapp.com",
   projectId: "gtrades-axis",
   storageBucket: "gtrades-axis.firebasestorage.app",
